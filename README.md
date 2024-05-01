@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GetlimYo
+- 👀 I’m interested in python and c++, cryptography and cybersecurity
+- 🌱 I’m currently learning python
